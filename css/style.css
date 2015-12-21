@@ -1,0 +1,20 @@
+#wrapper {
+  width: 40em;
+  background: #4682b4;
+  padding: 1.4em;
+  font-family: sans-serif;
+  color: #f5fffa; }
+
+h1 {
+  font-size: 3em;
+  text-align: center; }
+
+p {
+  text-align: justify;
+  padding: 1em;
+  background: #6495ED; }
+
+.highlighted {
+  background: #CD5C5C; }
+
+/*# sourceMappingURL=style.css.map */

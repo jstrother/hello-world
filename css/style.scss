@@ -1,0 +1,21 @@
+@import "variables";
+
+#wrapper {
+    width: $wrapperWidth;
+    background: $wrapperColor;
+    padding: $wrapperPadding;
+    font-family: $fontFamily;
+    color: $fontColor;
+}
+h1 {
+    font-size: $h1Size;
+    text-align: $h1Align;
+}
+p {
+    text-align: $pAlign;
+    padding: $pPadding;
+    background: $pColor;
+}
+.highlighted {
+    background: $highlightedColor;
+}
